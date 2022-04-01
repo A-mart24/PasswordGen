@@ -113,5 +113,5 @@ if (numbers1){
 
 
   // join as string
-  // print generated password onto page
+  // print generated password onto page  :)
   
